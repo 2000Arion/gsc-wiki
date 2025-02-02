@@ -2,7 +2,7 @@
 title: Verbindung mit SFTP herstellen
 description: Hier erfährst du, wie du dich mit SFTP auf deinen Server verbindest, um Dateien hochzuladen, herunterzuladen oder zu bearbeiten.
 published: true
-date: 2025-02-02T16:46:42.533Z
+date: 2025-02-02T17:11:17.663Z
 tags: sftp, upload, management, winscp, filezilla, ssh-keys
 editor: markdown
 dateCreated: 2025-02-02T13:35:02.091Z
@@ -17,7 +17,7 @@ dateCreated: 2025-02-02T13:35:02.091Z
 
 # 🔍 Schritt 1: SFTP-Zugangsdaten im Panel abrufen
 
-1. Melde dich im <a title="Klicke hier, um das Panel zu öffnen" target="_blank" href="https://panel.arion2000.xyz">Panel</a> an.
+1. Melde dich im [Panel](https://panel.arion2000.xyz "Klicke hier, um das Panel zu öffnen") an.
 2. Wähle den gewünschten Server aus.
 3. Navigiere zum Tab **Settings**.
 4. Kopiere die folgenden Informationen:
