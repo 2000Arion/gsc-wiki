@@ -2,7 +2,7 @@
 title: Verbindung mit SFTP herstellen
 description: Hier erfährst du, wie du dich mit SFTP auf deinen Server verbindest, um Dateien hochzuladen, herunterzuladen oder zu bearbeiten.
 published: true
-date: 2025-02-02T14:36:27.121Z
+date: 2025-02-02T14:37:39.097Z
 tags: sftp, upload, management, winscp, filezilla, ssh-keys
 editor: markdown
 dateCreated: 2025-02-02T13:35:02.091Z
@@ -10,7 +10,7 @@ dateCreated: 2025-02-02T13:35:02.091Z
 
 # 📋 Voraussetzungen
 
-- SFTP-Client (z. B. [WinSCP](https://winscp.net "Klicke hier, um winscp.net zu öffnen"), [FileZilla](https://filezilla-project.org "Klicke hier, um filezilla-project.org zu öffnen"), etc.)
+- FTP-Client (z. B. [WinSCP](https://winscp.net "Klicke hier, um winscp.net zu öffnen"), [FileZilla](https://filezilla-project.org "Klicke hier, um filezilla-project.org zu öffnen"), etc.)
 - Server-Zugangsdaten aus dem Panel
 
 ---
