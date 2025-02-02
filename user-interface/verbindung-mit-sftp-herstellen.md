@@ -2,7 +2,7 @@
 title: Verbindung mit SFTP herstellen
 description: Hier erfährst du, wie du dich mit SFTP auf deinen Server verbindest, um Dateien hochzuladen, herunterzuladen oder zu bearbeiten.
 published: false
-date: 2025-02-02T14:02:28.579Z
+date: 2025-02-02T14:06:50.074Z
 tags: sftp, upload, management, winscp, filezilla, ssh-keys
 editor: markdown
 dateCreated: 2025-02-02T13:35:02.091Z
@@ -90,6 +90,15 @@ ssh-keygen
 Beantworte die Fragen oder bestätige mit <kbd>Enter</kbd>, um die Standardantwort in den Klammern zu verwenden.
 
 Anschließend wird dir angezeigt, wo das Schlüsselpaar gespeichert wurde.
+
+---
+
+## Schritt 2: Public Key im Panel hinterlegen
+
+1. Rufe folgende Seite auf: <https://panel.arion2000.xyz/account/ssh>
+2. Trage folgende Daten ein:
+	- **SSH Key Name:** Wähle einen Namen deiner Wahl, um den SSH-Key in Zukunft eindeutig identifizieren zu können.
+  - **Public Key:** Trage hier den Inhalt deiner _Public_ Key-Datei ein.
 
 ---
 
