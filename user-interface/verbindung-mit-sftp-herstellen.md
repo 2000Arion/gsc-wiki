@@ -2,7 +2,7 @@
 title: Verbindung mit SFTP herstellen
 description: Hier erfährst du, wie du dich mit SFTP auf deinen Server verbindest, um Dateien hochzuladen, herunterzuladen oder zu bearbeiten.
 published: true
-date: 2025-03-21T16:50:04.003Z
+date: 2025-03-21T17:08:47.371Z
 tags: filezilla, management, sftp, ssh-keys, upload, winscp
 editor: markdown
 dateCreated: 2025-02-02T13:35:02.091Z
@@ -145,6 +145,12 @@ Anschließend wird dir angezeigt, wo das Schlüsselpaar gespeichert wurde.
 - Die Richtigkeit deines Benutzernamen und Passworts
 - Ob deine Firewall SFTP-Verbindungen zulässt
 - Schaue auf unserer [Status-Seite](https://status.arion2000.xyz "Klicke hier, um die arion2000.xyz Statuspage zu öffnen") nach, ob es aktuelle Störungen gibt
+
+## Anmeldung unter Linux mithilfe des `sftp`-Commands
+
+Stelle sicher, den Benutzernamen und die Serveradresse immer im Format `username.a1b2c3d4@example.com` anzugeben und nicht anders. Ein häufig auftretender Fehler ist die Separierung der Serveradresse und des Benutzernamens oder die Verwendung von Großbuchstaben. Beispielsweise sollte `Username.A1B2C3D4@example.com` oder `example.com username.a1b2c3d4` vermieden werden.
+
+Vergiss nicht, den richtigen Port mithilfe von `-P 2022` anzugeben.
 
 ## ⚠️ Zertifikatswarnung
 
