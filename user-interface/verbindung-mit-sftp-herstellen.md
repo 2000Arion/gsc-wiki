@@ -2,7 +2,7 @@
 title: Verbindung mit SFTP herstellen
 description: Hier erfährst du, wie du dich mit SFTP auf deinen Server verbindest, um Dateien hochzuladen, herunterzuladen oder zu bearbeiten.
 published: true
-date: 2025-03-21T17:09:28.141Z
+date: 2025-03-21T17:10:54.758Z
 tags: filezilla, management, sftp, ssh-keys, upload, winscp
 editor: markdown
 dateCreated: 2025-02-02T13:35:02.091Z
@@ -148,7 +148,7 @@ Anschließend wird dir angezeigt, wo das Schlüsselpaar gespeichert wurde.
 
 ## 🐧 Anmeldung unter Linux mithilfe des `sftp`-Commands
 
-Stelle sicher, den Benutzernamen und die Serveradresse immer im Format `username.a1b2c3d4@example.com` anzugeben und nicht anders. Ein häufig auftretender Fehler ist die Separierung der Serveradresse und des Benutzernamens oder die Verwendung von Großbuchstaben. Beispielsweise sollte `Username.A1B2C3D4@example.com` oder `example.com username.a1b2c3d4` vermieden werden.
+Stelle sicher, den Benutzernamen und die Serveradresse immer im Format `username.a1b2c3d4@example.com` anzugeben und nicht anders. Ein häufig auftretender Fehler ist die Separierung der Serveradresse und des Benutzernamens oder die Verwendung von Großbuchstaben. Beispielsweise sollte `example.com username.a1b2c3d4` oder `Username.A1B2C3D4@example.com` vermieden werden.
 
 Vergiss nicht, den richtigen Port mithilfe von `-P 2022` anzugeben.
 
