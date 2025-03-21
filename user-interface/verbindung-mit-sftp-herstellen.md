@@ -2,7 +2,7 @@
 title: Verbindung mit SFTP herstellen
 description: Hier erfährst du, wie du dich mit SFTP auf deinen Server verbindest, um Dateien hochzuladen, herunterzuladen oder zu bearbeiten.
 published: true
-date: 2025-03-21T17:10:54.758Z
+date: 2025-03-21T17:12:11.354Z
 tags: filezilla, management, sftp, ssh-keys, upload, winscp
 editor: markdown
 dateCreated: 2025-02-02T13:35:02.091Z
@@ -117,7 +117,7 @@ Anschließend wird dir angezeigt, wo das Schlüsselpaar gespeichert wurde.
 > - Der Private Key befindet sich standardmäßig in der Datei ohne Dateiendung (z.B. `id_rsa`).
 > - WinSCP muss die Datei, falls noch nicht geschehen, zuerst in eine **`.ppk`-Datei** konvertieren. Bestätige den Vorgang mit **OK**.
 >
-> ℹ️ Lass das Feld für das Passwort leer, wenn du einen SSH-Key verwenden möchtest.
+> ℹ️ Lasse das Feld für das Passwort leer, wenn du einen SSH-Key verwenden möchtest.
 <!-- {blockquote:.is-info} -->
 5. Klicke auf **OK**.
 6. Verbinde dich mit **Anmelden**.
@@ -130,7 +130,7 @@ Anschließend wird dir angezeigt, wo das Schlüsselpaar gespeichert wurde.
 4. Trage in das Textfeld **Schlüsseldatei** den privaten Schlüssel ein.
 > Der Private Key befindet sich standardmäßig in der Datei ohne Dateiendung (z.B. `id_rsa`).
 >
-> ℹ️ Lass das Feld für das Passwort leer, wenn du einen SSH-Key verwenden möchtest.
+> ℹ️ Lasse das Feld für das Passwort leer, wenn du einen SSH-Key verwenden möchtest.
 {.is-info}
 5. Klicke auf **Verbinden**.
 
