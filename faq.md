@@ -2,7 +2,7 @@
 title: FAQ
 description: Finde Antworten auf häufig gestellte Fragen.
 published: true
-date: 2025-05-29T07:24:09.823Z
+date: 2025-07-19T17:14:47.212Z
 tags: faq
 editor: markdown
 dateCreated: 2025-02-02T15:10:40.131Z
