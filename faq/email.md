@@ -2,7 +2,7 @@
 title: Probleme beim Empfang von E-Mails beheben
 description: Hier erfährst du, wie du die häufigsten Probleme beim Empfang von E-Mails der Gameservercloud ganz einfach lösen kannst.
 published: true
-date: 2025-07-31T23:06:19.078Z
+date: 2025-07-31T23:07:05.598Z
 tags: email, faq, troubleshooting
 editor: markdown
 dateCreated: 2025-07-31T22:07:40.373Z
@@ -48,9 +48,8 @@ Wenn du dir **nicht sicher** bist, prüfe auch deine **anderen E-Mail-Konten**. 
 
 # 🆘 Schritt 4: Kontaktiere den Support
 
-Wenn die Probleme weiterhin bestehen, kontaktiere uns entweder – **falls möglich** – per E-Mail an  
-**<tickets@arion2000.xyz>**  
-oder **starte einen Live-Chat über die Sprechblase in der rechten unteren Ecke auf dieser Seite**.
+Wenn die Probleme weiterhin bestehen, kontaktiere uns entweder – **falls möglich** – per E-Mail an **<tickets@arion2000.xyz>**
+oder **starte bequem einen Live-Chat über die Sprechblase in der rechten unteren Ecke auf dieser Seite**.
 
 Bitte gib dabei alle **relevanten Informationen** an:
 
