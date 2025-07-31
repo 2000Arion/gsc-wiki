@@ -2,7 +2,7 @@
 title: Probleme beim Empfang von E-Mails beheben
 description: Hier erfährst du, wie du die häufigsten Probleme beim Empfang von E-Mails der Gameservercloud ganz einfach lösen kannst.
 published: true
-date: 2025-07-31T23:02:13.221Z
+date: 2025-07-31T23:04:31.757Z
 tags: email, faq, troubleshooting
 editor: markdown
 dateCreated: 2025-07-31T22:07:40.373Z
@@ -21,7 +21,7 @@ Wenn du Schwierigkeiten beim Empfang von automatisierten E-Mails vom Panel hast,
 
 Manchmal werden E-Mails von unbekannten Absendern automatisch als **Spam** markiert und landen im **Spam-Ordner**.
 
-Öffne deinen Spam-Ordner und prüfe, ob die E-Mails von **<panel@m.arion2000.xyz>** dort gelandet sind. Wenn ja, markiere sie als **„Kein Spam“**, um sicherzustellen, dass zukünftige E-Mails im **Posteingang** landen.
+Öffne deinen Spam-Ordner und prüfe, ob die E-Mails von <panel@m.arion2000.xyz> dort gelandet sind. Wenn ja, markiere sie als **„Kein Spam“**, um sicherzustellen, dass zukünftige E-Mails im **Posteingang** landen.
 
 ---
 
