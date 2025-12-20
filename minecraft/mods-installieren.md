@@ -2,7 +2,7 @@
 title: Mods installieren
 description: Hier erfährst du, wie du Mods auf deinem Fabric oder Forge Server installieren kannst.
 published: true
-date: 2025-12-20T11:13:39.999Z
+date: 2025-12-20T11:24:06.615Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-20T11:13:39.999Z
@@ -73,13 +73,13 @@ Mod ‘examplemod’ requires version 1.20.1 but server is running 1.19.4
 
 ## 🧾 Schritt 2: Häufige Ursachen und Lösungen
 
-| Problemtyp                               | Beschreibung                                                             | Lösung                                                                                          |
-|------------------------------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| ❌ **Falsche Minecraft-Version**         | Die Mod wurde für eine andere Version entwickelt.                        | Lade eine Version der Mod herunter, die zu deiner Minecraft-Version passt.                      |
-| 🔄 **Fehlende Abhängigkeit**             | Eine zweite Mod wird benötigt (z. B. Fabric API, Architectury, GeckoLib). | Lies die Modbeschreibung auf Modrinth/CurseForge und installiere alle angegebenen Dependencies. |
-| ⚔️ **Mod-Konflikt**                      | Zwei Mods verändern denselben Codebereich oder Hook.                      | Entferne testweise eine der Mods, um den Konflikt zu isolieren.                                 |
-| 🧪 **Falscher Modloader (Fabric/Forge)** | Eine Fabric-Mod wurde auf einem Forge-Server installiert oder umgekehrt.  | Verwende die zur Serverinstallation passende Mod-Variante.                                      |
-| ⚙️ **Fehlerhafte .jar-Datei**            | Upload war unvollständig oder Datei wurde beschädigt.                     | Lade die Mod erneut herunter und ersetze die alte `.jar`-Datei.                                 |
+| Problemtyp                                    | Beschreibung                                                                           | Lösung                                                                                                         |
+|-----------------------------------------------|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| ❌ **Falsche Minecraft-Version**              | Die Mod wurde für eine andere Version entwickelt.                                      | Lade eine Version der Mod herunter, die zu deiner Minecraft-Version passt oder ändere deine Minecraft-Version. |
+| 🔄 **Fehlende Abhängigkeit**                  | Eine zweite Mod wird benötigt (z. B. Fabric API, Architectury, GeckoLib).              | Lies die Modbeschreibung auf Modrinth/CurseForge und installiere alle angegebenen Dependencies.                 |
+| ⚔️ **Mod-Konflikt**                           | Zwei Mods verändern denselben Codebereich oder Hook.                                   | Entferne testweise eine der Mods, um zu untersuchen, ob es anschließend funktioniert.                          |
+| 🧪 **Falscher Modloader (z.B. Fabric/Forge)** | Zum Beispiel wurde eine Fabric-Mod auf einem Forge-Server installiert oder umgekehrt.  | Verwende die zur Server-Software passende Mod-Variante.                                                        |
+| ⚙️ **Fehlerhafte .jar-Datei**                 | Upload war unvollständig oder Datei wurde beschädigt.                                  | Lade die Mod erneut herunter und ersetze die alte `.jar`-Datei. Achte auf eine stabile Internetverbindung.     |
 
 ## 🔁 Schritt 3: Nach der Korrektur
 
@@ -92,5 +92,5 @@ Mod ‘examplemod’ requires version 1.20.1 but server is running 1.19.4
 
 # 💬 Noch Fragen?
 
-Wenn du trotz allem nicht weiterkommst, kannst du den **Fehlertext aus der Konsole** (insbesondere die letzten 20–30 Zeilen) kopieren und im Support-Channel oder Forum posten.  
-Oft reicht schon ein Blick darauf, um das Problem gezielt zu lösen.
+Wenn du trotz allem nicht weiterkommst, kannst du den **Fehlertext aus der Konsole** (insbesondere die letzten 20–30 Zeilen) kopieren und unserem <a href="#" id="open-chat">Support eine Nachricht schreiben</a>.  
+Wir helfen dir gerne bei der Lösung des Problems!
