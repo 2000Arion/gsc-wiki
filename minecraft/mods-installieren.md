@@ -2,7 +2,7 @@
 title: Mods installieren
 description: Hier erfährst du, wie du Mods auf deinem Fabric oder Forge Server installieren kannst.
 published: true
-date: 2025-12-20T11:35:17.890Z
+date: 2025-12-20T11:53:15.201Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-20T11:13:39.999Z
@@ -33,6 +33,9 @@ Lade die `.jar`-Datei der Mod auf deinen Computer herunter. Achte ggf. darauf, o
 
 > 💡 **Tipp:** Falls du Mods lieber mit einem SFTP-Client hochladen möchtest, kannst du das genauso machen. [Weitere Informationen zu SFTP findest du hier.](https://wiki.arion2000.xyz/de/user-interface/verbindung-mit-sftp-herstellen)
 {.is-info}
+
+> **Wichtig:** Einige Mods erstellen nach dem Starten des Servers eine Konfigurationsdatei (bei Fabric meistens im `config`-Ordner), wo Einstellungen für die Mod angepasst werden können/müssen. Informiere dich in so einem Fall am besten über Tutorials oder die Dokumentation des Mod-Autors darüber, welche Einstellungen was bewirken.
+{.is-warning}
 
 ---
 
