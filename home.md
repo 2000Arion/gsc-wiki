@@ -2,7 +2,7 @@
 title: Startseite
 description: Willkommen in der Arion2000.xyz Gameservers Dokumentation!
 published: true
-date: 2025-02-02T12:59:02.525Z
+date: 2025-12-20T11:54:26.034Z
 tags: home
 editor: markdown
 dateCreated: 2025-02-02T01:18:17.567Z
@@ -41,4 +41,4 @@ Erfahre, wie du ein GitHub Repository verbinden und deinen Discord Bot starten k
 
 # Neuigkeiten
 
-<kbd>Wird bald hinzugefügt :O</kbd>
+<kbd>Wird ~~bald~~ irgendwann hinzugefügt :O</kbd>
