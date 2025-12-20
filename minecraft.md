@@ -1,0 +1,14 @@
+---
+title: Minecraft Server
+description: Erfahre, wie du deinen Minecraft Server einrichten und personalisieren, Plugins oder Mods hochladen und andere Einstellungen vornehmen kannst.
+published: true
+date: 2025-12-20T11:36:10.428Z
+tags: 
+editor: markdown
+dateCreated: 2025-12-20T11:36:10.428Z
+---
+
+- [➕ Server bestellen *Du hast noch keinen Server? So kannst du einen bestellen.*](./minecraft/server-bestellen)
+- [🌍 Welt hochladen *Eine Anleitung, wie du eine bestehende Welt auf deinen Server hochladen kannst.*](./minecraft/welt-hochladen)
+- [📦 Plugins/Mods installieren *Erfahre, wie du Plugins oder Mods auf deinem Server verwenden kannst.*](./minecraft/plugins-mods-installieren)
+{.links-list}
