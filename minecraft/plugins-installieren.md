@@ -2,7 +2,7 @@
 title: Plugins installieren
 description: Hier erfährst du, wie du Plugins auf deinem Paper, Spigot, Purpur oder Bukkit Server installieren kannst.
 published: true
-date: 2025-12-20T11:51:27.502Z
+date: 2025-12-20T11:53:31.291Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-20T11:34:53.930Z
@@ -34,7 +34,7 @@ Lade die `.jar`-Datei des Plugins auf deinen Computer herunter. Achte darauf, ob
 > 💡 **Tipp:** Falls du Plugins lieber mit einem SFTP-Client hochladen möchtest, kannst du das genauso machen. [Weitere Informationen zu SFTP findest du hier.](https://wiki.arion2000.xyz/de/user-interface/verbindung-mit-sftp-herstellen)
 {.is-info}
 
-> **Wichtig:** Einige Plugins erstellen nach dem Starten des Servers eine Konfigurationsdatei, in welcher Einstellungen für das Plugin geändert werden können/müssen. Informiere dich in so einem Fall am besten über Tutorials oder die Dokumentation des Mod-Autors, welche Einstellungen was bewirken.
+> **Wichtig:** Einige Plugins erstellen nach dem Starten des Servers eine Konfigurationsdatei, in welcher Einstellungen für das Plugin geändert werden können/müssen. Informiere dich in so einem Fall am besten über Tutorials oder die Dokumentation des Mod-Autors darüber, welche Einstellungen was bewirken.
 {.is-warning}
 
 ---
