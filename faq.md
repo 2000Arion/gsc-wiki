@@ -2,7 +2,7 @@
 title: FAQ
 description: Finde Antworten auf häufig gestellte Fragen.
 published: true
-date: 2025-12-20T11:57:33.422Z
+date: 2025-12-20T11:58:51.217Z
 tags: faq
 editor: markdown
 dateCreated: 2025-02-02T15:10:40.131Z
@@ -21,5 +21,5 @@ Du hast weitere Fragen oder möchtest uns bezüglich anderer Anliegen kontaktier
 
 Sende uns eine E-Mail an <tickets@arion2000.xyz>. Wir helfen dir jederzeit gerne weiter.
 
-> Du kannst auch den <a href="#" id="open-chat">Live-Chat</a> unten rechts auf dieser Seite verwenden, um uns einfach und schnell zu erreichen.
+> Du kannst auch den <a href="#" id="open-chat">Live-Chat</a> unten rechts auf dieser Seite verwenden, um uns 0schnell und einfach zu erreichen.
 {.is-info}
