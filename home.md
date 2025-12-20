@@ -2,7 +2,7 @@
 title: Startseite
 description: Willkommen in der Arion2000.xyz Gameservers Dokumentation!
 published: true
-date: 2025-12-20T11:54:26.034Z
+date: 2025-12-20T11:57:47.873Z
 tags: home
 editor: markdown
 dateCreated: 2025-02-02T01:18:17.567Z
@@ -17,7 +17,6 @@ Wähle einen Themenbereich aus, um die entsprechende Dokumentation aufzurufen.
 - [🔑 Passwort vergessen? *Erfahre, wie du dein Passwort zurücksetzen kannst.*](./faq/password)
 - [✉️ Kommen manche E-Mails nicht an? *Behebe Probleme bezüglich des Erhaltens von E-Mails.*](./faq/email)
 - [📡 Server nicht erreichbar? *Lerne nützliche Tipps bezüglich Verbindungsproblemen kennen.*](./faq/outages)
-- [🤔 Fragen zur Gameservercloud *So kannst du uns kontaktieren.*](./faq/contact)
 {.links-list}
 
 ## Minecraft Server
