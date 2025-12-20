@@ -2,43 +2,46 @@
 title: Plugins installieren
 description: Hier erfährst du, wie du Plugins auf deinem Paper, Spigot, Purpur oder Bukkit Server installieren kannst.
 published: true
-date: 2025-12-20T11:34:53.930Z
+date: 2025-12-20T11:51:27.502Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-20T11:34:53.930Z
 ---
 
-# 🔍 Wo finde ich Mods, die ich installieren kann?
+# 🔍 Wo finde ich Plugins, die ich installieren kann?
 
-Du kannst alle Mods installieren, die du möchtest. Wichtig ist nur, dass die Mod **als `.jar`-Datei vorliegt** und **mit deiner Minecraft-Version kompatibel ist**.  
+Du kannst beliebige Plugins installieren, die du möchtest. Wichtig ist nur, dass das Plugin **als `.jar`-Datei vorliegt** und **mit deiner Minecraft-Server-Software (z. B. Paper, Spigot, Purpur oder Bukkit) kompatibel ist**.
 
-Wenn du nach passenden Mods suchst, schau doch mal auf **[Modrinth](https://modrinth.com/discover/mods)** oder **[CurseForge](https://www.curseforge.com/minecraft)** vorbei.
+Wenn du nach passenden Plugins suchst, empfehlen wir dir, auf **[Modrinth](https://modrinth.com/discover/plugins)**, **[PaperMC Hangar](https://hangar.papermc.io/)**, [SpigotMC](https://www.spigotmc.org/resources/) oder [BukkitDev](https://dev.bukkit.org/bukkit-plugins) zu schauen.
 
 ---
 
-# ⚙️ Mods auf dem Gameserver installieren
+# ⚙️ Plugins auf dem Gameserver installieren
 
-## 🧩 Schritt 1: Mod herunterladen
+## 🧩 Schritt 1: Plugin herunterladen
 
-Lade die `.jar`-Datei der Mod auf deinen Computer herunter. Achte ggf. darauf, ob der Autor der Mod angegeben hat, dass andere Mods als Abhängigkeit benötigt werden und zusätzlich installiert werden müssen.
+Lade die `.jar`-Datei des Plugins auf deinen Computer herunter. Achte darauf, ob der Autor des Plugins angibt, dass weitere Plugins als Abhängigkeit benötigt werden und zusätzlich installiert werden müssen.
 
-## 📁 Schritt 2: Mods-Ordner öffnen
+## 📁 Schritt 2: Plugins-Ordner öffnen
 
 1. Melde dich im [Panel](https://panel.arion2000.xyz) an.  
 2. Wähle den gewünschten Server aus.  
 3. Navigiere zum Tab **Files**.  
-4. Klicke auf den Ordner **`mods`**.  
-5. Klicke oben rechts auf den blauen Button **Upload** und lade deine Mod-Datei(en) hoch.  
+4. Klicke auf den Ordner **`plugins`**.  
+5. Klicke oben rechts auf den blauen Button **Upload** und lade deine Plugin-Datei(en) hoch.  
 6. Wechsle anschließend zum Tab **Console** und starte den Server neu.
 
-> 💡 **Tipp:** Falls du Mods lieber mit einem SFTP-Client hochladen möchtest, kannst du das genauso machen. [Weitere Informationen zu SFTP findest du hier.](https://wiki.arion2000.xyz/de/user-interface/verbindung-mit-sftp-herstellen)
+> 💡 **Tipp:** Falls du Plugins lieber mit einem SFTP-Client hochladen möchtest, kannst du das genauso machen. [Weitere Informationen zu SFTP findest du hier.](https://wiki.arion2000.xyz/de/user-interface/verbindung-mit-sftp-herstellen)
 {.is-info}
+
+> **Wichtig:** Einige Plugins erstellen nach dem Starten des Servers eine Konfigurationsdatei, in welcher Einstellungen für das Plugin geändert werden können/müssen. Informiere dich in so einem Fall am besten über Tutorials oder die Dokumentation des Mod-Autors, welche Einstellungen was bewirken.
+{.is-warning}
 
 ---
 
 # 🧰 Was tun bei Fehlern?
 
-Keine Panik – Fehler bei der Verwendung von Mods kommen häufig vor und lassen sich in den meisten Fällen schnell beheben.
+Keine Panik – Fehler bei der Verwendung von Plugins kommen häufig vor und lassen sich in den meisten Fällen schnell beheben.
 
 ## 🔎 Schritt 1: Die Konsole prüfen
 
@@ -46,47 +49,46 @@ Wenn dein Server nicht startet oder abstürzt, findest du den Grund fast immer i
 Achte auf Zeilen mit Schlüsselwörtern wie:
 
 - `Error`, `Exception` oder `Caused by`  
-- `Mod resolution failed` (Fabric) oder `Found mismatching mod versions`  
-- `Missing Mod: xyz` oder `NoClassDefFoundError`  
-- `Mixin apply failed` (besonders bei Fabric)  
-- `Unable to load registry` oder `Mod has failed class loading` (Forge)
+- `Could not load plugin`  
+- `Plugin failed to load`  
+- `NoClassDefFoundError`  
+- `Missing dependency`  
+- `Plugin version mismatch`
 
->  Mit <kbd>STRG</kbd> + <kbd>F</kbd> kannst du in der Konsole suchen.
+> Mit <kbd>STRG</kbd> + <kbd>F</kbd> kannst du in der Konsole suchen.
 {.is-info}
 
+Solche Zeilen erscheinen meist im Zusammenhang mit dem betreffenden Plugin und verraten, wo das Problem liegt.
 
-Solche Zeilen erscheinen meist im Zusammenhang mit der betreffenden Mod und verraten, wo das Problem liegt.
-
-### Beispielhafte Fehlermeldung bei **Fabric**:
-
-```
-[main/WARN]: Incompatible mod set! Some mods are not supported on this Minecraft version:
-- examplemod requires Minecraft 1.21.1
-```
-
-### Beispielhafte Fehlermeldung bei **Forge**:
+### Beispielhafte Fehlermeldung bei **Paper/Spigot/Purpur**:
 
 ```
-net.minecraftforge.fml.loading.moddiscovery.ModResolutionException:
-Mod ‘examplemod’ requires version 1.20.1 but server is running 1.19.4
+[ERROR]: Could not load 'plugins/ExamplePlugin.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError
 ```
+
+### Beispielhafte Fehlermeldung bei fehlender Abhängigkeit:
+
+```
+[ERROR]: Plugin 'ExamplePlugin' is missing dependency 'Vault'
+```
+
 
 ## 🧾 Schritt 2: Häufige Ursachen und Lösungen
 
-| Problemtyp                                    | Beschreibung                                                                           | Lösung                                                                                                         |
-|-----------------------------------------------|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| ❌ **Falsche Minecraft-Version**              | Die Mod wurde für eine andere Version entwickelt.                                      | Lade eine Version der Mod herunter, die zu deiner Minecraft-Version passt oder ändere deine Minecraft-Version. |
-| 🔄 **Fehlende Abhängigkeit**                  | Eine zweite Mod wird benötigt (z. B. Fabric API, Architectury, GeckoLib).              | Lies die Modbeschreibung auf Modrinth/CurseForge und installiere alle angegebenen Dependencies.                 |
-| ⚔️ **Mod-Konflikt**                           | Zwei Mods verändern denselben Codebereich oder Hook.                                   | Entferne testweise eine der Mods, um zu untersuchen, ob es anschließend funktioniert.                          |
-| 🧪 **Falscher Modloader (z.B. Fabric/Forge)** | Zum Beispiel wurde eine Fabric-Mod auf einem Forge-Server installiert oder umgekehrt.  | Verwende die zur Server-Software passende Mod-Variante.                                                        |
-| ⚙️ **Fehlerhafte .jar-Datei**                 | Upload war unvollständig oder Datei wurde beschädigt.                                  | Lade die Mod erneut herunter und ersetze die alte `.jar`-Datei. Achte auf eine stabile Internetverbindung.     |
+| Problemtyp                     | Beschreibung                                                                                                                                  | Lösung                                                                                     |
+|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| ❌ **Falsche Server-Software** | Das Plugin wurde für eine andere Server-Software geschrieben oder es handelt sich nicht um ein Plugin, sondern um eine Mod (z.B. für Fabric). | Lade eine Version des Plugins herunter, die zu deiner Server-Software passt.               |
+| 🔄 **Fehlende Abhängigkeit**   | Ein weiteres Plugin (z. B. Vault, ProtocolLib) wird benötigt.                                                                                  | Lies die Plugin-Beschreibung und installiere alle angegebenen Dependencies.               |
+| ⚔️ **Plugin-Konflikt**         | Zwei Plugins greifen auf dieselbe Funktionalität zu oder verändern denselben Codebereich.                                                     | Entferne testweise eines der Plugins, um zu prüfen, ob das Problem behoben wird.           |
+| ⚙️ **Fehlerhafte .jar-Datei**  | Upload war unvollständig oder Datei wurde beschädigt.                                                                      | Lade das Plugin erneut herunter und ersetze die alte `.jar`-Datei. Achte auf eine stabile Internetverbindung. |
 
 ## 🔁 Schritt 3: Nach der Korrektur
 
-1. Entferne oder ersetze die problematische Mod.  
+1. Entferne oder ersetze das problematische Plugin.  
 2. Starte den Server neu und prüfe die Konsole erneut.  
 3. Wiederhole den Vorgang, bis keine Fehler mehr auftauchen.  
-4. Optional: Wenn du viele Mods nutzt, füge sie **schrittweise** hinzu, um Konflikte schneller zu erkennen.
+4. Optional: Wenn du viele Plugins nutzt, füge sie **schrittweise** hinzu, um Konflikte schneller zu erkennen.
 
 ---
 
