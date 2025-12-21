@@ -2,8 +2,8 @@
 title: Mods installieren
 description: Hier erfährst du, wie du Mods auf deinem Fabric oder Forge Server installieren kannst.
 published: true
-date: 2025-12-20T11:53:15.201Z
-tags: 
+date: 2025-12-21T18:21:37.394Z
+tags: upload, troubleshooting, minecraft
 editor: markdown
 dateCreated: 2025-12-20T11:13:39.999Z
 ---
