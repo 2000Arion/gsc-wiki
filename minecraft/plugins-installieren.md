@@ -2,8 +2,8 @@
 title: Plugins installieren
 description: Hier erfährst du, wie du Plugins auf deinem Paper, Spigot, Purpur oder Bukkit Server installieren kannst.
 published: true
-date: 2025-12-20T11:53:31.291Z
-tags: 
+date: 2025-12-21T18:22:26.836Z
+tags: upload, troubleshooting, minecraft, plugins
 editor: markdown
 dateCreated: 2025-12-20T11:34:53.930Z
 ---
