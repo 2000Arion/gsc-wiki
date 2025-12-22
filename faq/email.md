@@ -2,7 +2,7 @@
 title: Probleme beim Empfang von E-Mails beheben
 description: Hier erfährst du, wie du die häufigsten Probleme beim Empfang von E-Mails der Gameservercloud ganz einfach lösen kannst.
 published: true
-date: 2025-07-31T23:07:05.598Z
+date: 2025-12-22T15:57:51.554Z
 tags: email, faq, troubleshooting
 editor: markdown
 dateCreated: 2025-07-31T22:07:40.373Z
@@ -12,7 +12,7 @@ Wenn du Schwierigkeiten beim Empfang von automatisierten E-Mails vom Panel hast,
 
 > *Dieser Artikel fokussiert sich auf Probleme mit den automatisierten E-Mails vom Gameservercloud-Panel (z. B. für Passwortzurücksetzungen oder Benachrichtigungen).*
 >
-> **Sind es in deinem Fall stattdessen E-Mails vom Support, die nicht ankommen?** [Klicke hier, um genauere Anweisungen zu erhalten.](https://arion2000.tawk.help/article/64be6e3954d1b209d02369c2 "Klicke hier, um den dazugehörigen Artikel im arion2000.xyz Support-Center unter arion2000.tawk.help zu öffnen")
+> **Sind es in deinem Fall E-Mails vom Support, die nicht ankommen?** [Klicke hier, um genauere Anweisungen zu erhalten.](https://arion2000.tawk.help/article/64be6e3954d1b209d02369c2 "Klicke hier, um den dazugehörigen Artikel im arion2000.xyz Support-Center unter arion2000.tawk.help zu öffnen")
 {.is-info}
 
 ---
