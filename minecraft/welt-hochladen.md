@@ -2,15 +2,15 @@
 title: Welt hochladen
 description: Eine Anleitung, wie du eine bestehende Welt auf deinen Server hochladen kannst.
 published: true
-date: 2025-12-29T15:12:34.087Z
-tags: upload, minecraft, worldfolder
+date: 2025-12-29T15:14:54.397Z
+tags: 
 editor: markdown
 dateCreated: 2025-12-29T12:12:29.375Z
 ---
 
 Falls du bereits eine Singleplayer-Welt oder eine Welt von einem anderen Server hast, die du auf deinem eigenen Server verwenden möchtest, kannst du sie ganz einfach hochladen. Auf dieser Seite wird dir Schritt für Schritt erklärt, wie du dabei vorgehst.
 
-# :earth_africa: Welt auf Vanilla- oder Fabric-Server hochladen
+# 🌍 Welt auf Vanilla- oder Fabric-Server hochladen
 
 1. Öffne den Datei-Explorer und wechsle in das Verzeichnis deiner Minecraft-Installation auf deinem Computer. Standardmäßig ist dies unter Windows `%appdata%/.minecraft`.
 
@@ -18,7 +18,7 @@ Falls du bereits eine Singleplayer-Welt oder eine Welt von einem anderen Server 
 
 ##### Tabs {.tabset}
 
-###### :desktop_computer: Über das Panel hochladen
+###### 🖥️ Über das Panel hochladen
 
 3. Da das Panel derzeit noch kein Hochladen kompletter Ordner unterstützt, musst du den **Weltenordner zunächst in eine ZIP-Datei komprimieren**.
 
@@ -43,7 +43,7 @@ Falls du bereits eine Singleplayer-Welt oder eine Welt von einem anderen Server 
 
 9. Falls nötig, starte deinen Server neu.
 
-###### :closed_lock_with_key: Über einen FTP-Client hochladen
+###### 🔐 Über einen FTP-Client hochladen
 
 3. Falls du noch keinen FTP-Client installiert hast, solltest du zunächst einen installieren. Wir empfehlen [WinSCP](https://winscp.net/eng/download.php). <span style="color: #858585;">Weitere Informationen zu SFTP-Verbindungen findest du [hier](/user-interface/verbindung-mit-sftp-herstellen).</span>
 
@@ -66,12 +66,12 @@ Falls du bereits eine Singleplayer-Welt oder eine Welt von einem anderen Server 
 
 <h5 style="visibility: hidden;"></h5>
 
-:white_check_mark: Jetzt sollte die neue Welt auf deinem Server verfügbar sein.
+✅ Jetzt sollte die neue Welt auf deinem Server verfügbar sein.
 Falls es dennoch Probleme gibt, versuche, die Ordner `.cache` und `libraries` zu löschen und den Server anschließend neu zu starten, damit diese automatisch neu erstellt werden.
 
 Alternativ kannst du dich jederzeit an <a href="#" id="open-chat">unseren Support</a> wenden.
 
-# :package: Welt auf Paper- oder Purpur-Server hochladen
+# 📦 Welt auf Paper- oder Purpur-Server hochladen
 
 1. Öffne den Datei-Explorer und wechsle in das Verzeichnis deiner Minecraft-Installation auf deinem Computer. Standardmäßig ist dies unter Windows `%appdata%/.minecraft`.
 
@@ -89,7 +89,7 @@ Alternativ kannst du dich jederzeit an <a href="#" id="open-chat">unseren Suppor
 
 ##### Tabs {.tabset}
 
-###### :desktop_computer: Über das Panel hochladen
+###### 🖥️ Über das Panel hochladen
 
 4. Da das Panel aktuell noch kein Hochladen kompletter Ordner unterstützt, musst du den **Weltenordner zuerst in eine ZIP-Datei komprimieren**.
 
@@ -114,7 +114,7 @@ Alternativ kannst du dich jederzeit an <a href="#" id="open-chat">unseren Suppor
 
 10. Falls nötig, starte deinen Server neu.
 
-###### :closed_lock_with_key: Über einen FTP-Client hochladen
+###### 🔐 Über einen FTP-Client hochladen
 
 4. Falls du noch keinen FTP-Client installiert hast, solltest du zunächst einen installieren. Wir empfehlen [WinSCP](https://winscp.net/eng/download.php). <span style="color: #858585;">Weitere Informationen zu SFTP-Verbindungen findest du [hier](/user-interface/verbindung-mit-sftp-herstellen).</span>
 
@@ -137,7 +137,7 @@ Alternativ kannst du dich jederzeit an <a href="#" id="open-chat">unseren Suppor
 
 <h5 style="visibility: hidden;"></h5>
 
-:white_check_mark: Jetzt sollte die neue Welt auf deinem Server verfügbar sein.
+✅ Jetzt sollte die neue Welt auf deinem Server verfügbar sein.
 Falls es dennoch Probleme gibt, versuche, die Ordner `.cache` und `libraries` zu löschen und den Server anschließend neu zu starten, damit diese automatisch neu erstellt werden.
 
 Alternativ kannst du dich jederzeit an <a href="#" id="open-chat">unseren Support</a> wenden.
