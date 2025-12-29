@@ -2,7 +2,7 @@
 title: Welt hochladen
 description: Eine Anleitung, wie du eine bestehende Welt auf deinen Server hochladen kannst.
 published: true
-date: 2025-12-29T12:47:07.618Z
+date: 2025-12-29T12:48:38.823Z
 tags: upload, minecraft, worldfolder
 editor: markdown
 dateCreated: 2025-12-29T12:12:29.375Z
@@ -16,9 +16,9 @@ Falls du bereits eine Singleplayer-Welt oder eine Welt von einem anderen Server 
 
 2. Öffne den `saves`-Ordner und finde die Welt, die du auf den Server hochladen möchtest.
 
-## Tabs {.tabset}
+##### Tabs {.tabset}
 
-### Über das Panel hochladen
+###### Über das Panel hochladen
 
 3. Da das Panel das Hochladen von ganzen Ordnern aktuell noch nicht unterstützt, musst du den **Weltenordner zuerst in eine ZIP-Datei komprimieren**.
 
@@ -43,9 +43,11 @@ Falls du bereits eine Singleplayer-Welt oder eine Welt von einem anderen Server 
 
 9. Falls nötig, starte deinen Server neu.
 
-### Über einen FTP-Client hochladen
+###### Über einen FTP-Client hochladen
 
 3. Falls du noch keinen FTP-Client installiert hast, solltest du einen installieren. Wir empfehlen [WinSCP](https://winscp.net/eng/download.php). <span style="color: #858585">Weitere Informationen zu SFTP-Verbindungen findest du [hier](/user-interface/verbindung-mit-sftp-herstellen).</span>
+
+#####
 
 Jetzt sollte die neue Welt auf deinem Server vorhanden sein. Falls es Probleme gibt, versuche die Ordner `.cache` und `libraries` zu löschen und den Server anschließend neu zu starten, damit diese Ordner neu generiert werden.
 
