@@ -2,7 +2,7 @@
 title: Welt hochladen
 description: Eine Anleitung, wie du eine bestehende Welt auf deinen Server hochladen kannst.
 published: true
-date: 2025-12-29T12:27:51.648Z
+date: 2025-12-29T12:28:17.786Z
 tags: upload, minecraft, worldfolder
 editor: markdown
 dateCreated: 2025-12-29T12:12:29.375Z
@@ -35,8 +35,7 @@ Falls du bereits eine Singleplayer-Welt oder eine Welt von einem anderen Server 
 7. Nachdem der Weltenordner auf dem Server entpackt wurde, kannst du die ZIP-Datei wieder löschen.
 
 8. Falls der Name des Weltenordners nicht `world` ist, hast du zwei Möglichkeiten:
-
 	- Entweder machst du einen Rechtsklick auf den Weltenordner und wählst **Rename** aus, um den Ordner zu `world` umzubenennen.
-  	- Oder du öffnest die `server.properties`-Datei und änderst `level-name` zu dem Namen des Weltenordners (vergiss nicht, zu speichern!):
+  - Oder du öffnest die `server.properties`-Datei und änderst `level-name` zu dem Namen des Weltenordners (vergiss nicht, zu speichern!):
   ```
   
