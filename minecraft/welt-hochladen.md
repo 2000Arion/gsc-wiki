@@ -2,7 +2,7 @@
 title: Welt hochladen
 description: Eine Anleitung, wie du eine bestehende Welt auf deinen Server hochladen kannst.
 published: true
-date: 2025-12-29T12:28:17.786Z
+date: 2025-12-29T12:39:15.491Z
 tags: upload, minecraft, worldfolder
 editor: markdown
 dateCreated: 2025-12-29T12:12:29.375Z
@@ -24,11 +24,11 @@ Falls du bereits eine Singleplayer-Welt oder eine Welt von einem anderen Server 
 
 4. Wechsle im Panel in den Tab **Files**.
 
-![marked-file-tab-d3d479fabff413cccb4977d185868769.png](/_assets/minecraft/marked-file-tab-d3d479fabff413cccb4977d185868769.png)
+![Der "Files"-Tab ist in der Navigation des Gameservercloud-Panels durch ein rotes Quadrat gekennzeichnet.](/_assets/minecraft/marked-file-tab-d3d479fabff413cccb4977d185868769.png =x100)
 
 5. Lade die ZIP-Datei über den **Upload**-Button hoch.
 
-![marked-upload-button-253f763f180594147408759bba61fb4c.png](/_assets/minecraft/marked-upload-button-253f763f180594147408759bba61fb4c.png)
+![Der "Upload"-Button befindet sich zwischen den Buttons "Create Directory" auf der linken Seite und "New File" auf der rechten Seite und ist durch ein rotes Quadrat gekennzeichnet.](/_assets/minecraft/marked-upload-button-253f763f180594147408759bba61fb4c.png =x100)
 
 6. Mache einen Rechtsklick auf die hochgeladene ZIP-Datei und kliche auf **Unarchive**.
 
@@ -36,6 +36,14 @@ Falls du bereits eine Singleplayer-Welt oder eine Welt von einem anderen Server 
 
 8. Falls der Name des Weltenordners nicht `world` ist, hast du zwei Möglichkeiten:
 	- Entweder machst du einen Rechtsklick auf den Weltenordner und wählst **Rename** aus, um den Ordner zu `world` umzubenennen.
-  - Oder du öffnest die `server.properties`-Datei und änderst `level-name` zu dem Namen des Weltenordners (vergiss nicht, zu speichern!):
-  ```
-  
+  	- Oder du öffnest die `server.properties`-Datei und änderst in der Zeile `level-name` den Namen des Weltenordners (vergiss nicht, zu speichern!):
+  	```properties title="server.properties"
+  	level-name=Hier Ordnername eintragen
+  	```
+
+9. Falls nötig, starte deinen Server neu.
+
+Jetzt sollte die neue Welt auf deinem Server vorhanden sein. Falls es Probleme gibt, versuche die Ordner `.cache` und `libraries` zu löschen und den Server anschließend neu zu starten, damit diese Ordner neu generiert werden.
+
+Alternativ kannst du auch <a href="#" id="open-chat">unseren Support</a> um Hilfe bitten.
+
