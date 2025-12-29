@@ -2,7 +2,7 @@
 title: Welt hochladen
 description: Eine Anleitung, wie du eine bestehende Welt auf deinen Server hochladen kannst.
 published: true
-date: 2025-12-29T12:48:38.823Z
+date: 2025-12-29T12:53:34.573Z
 tags: upload, minecraft, worldfolder
 editor: markdown
 dateCreated: 2025-12-29T12:12:29.375Z
@@ -24,11 +24,11 @@ Falls du bereits eine Singleplayer-Welt oder eine Welt von einem anderen Server 
 
 4. Wechsle im Panel in den Tab **Files**.
 
-![Der "Files"-Tab ist in der Navigation des Gameservercloud-Panels durch ein rotes Quadrat gekennzeichnet.](/_assets/minecraft/marked-file-tab-d3d479fabff413cccb4977d185868769.png =x100)
+![Der "Files"-Tab ist in der Navigation des Gameservercloud-Panels durch ein rotes Quadrat gekennzeichnet.](/_assets/minecraft/marked-file-tab-d3d479fabff413cccb4977d185868769.png =572x100)
 
 5. Lade die ZIP-Datei über den **Upload**-Button hoch.
 
-![Der "Upload"-Button befindet sich zwischen den Buttons "Create Directory" auf der linken Seite und "New File" auf der rechten Seite und ist durch ein rotes Quadrat gekennzeichnet.](/_assets/minecraft/marked-upload-button-253f763f180594147408759bba61fb4c.png =x100)
+![Der "Upload"-Button befindet sich zwischen den Buttons "Create Directory" auf der linken Seite und "New File" auf der rechten Seite und ist durch ein rotes Quadrat gekennzeichnet.](/_assets/minecraft/marked-upload-button-253f763f180594147408759bba61fb4c.png =461x100)
 
 6. Mache einen Rechtsklick auf die hochgeladene ZIP-Datei und kliche auf **Unarchive**.
 
@@ -46,6 +46,10 @@ Falls du bereits eine Singleplayer-Welt oder eine Welt von einem anderen Server 
 ###### Über einen FTP-Client hochladen
 
 3. Falls du noch keinen FTP-Client installiert hast, solltest du einen installieren. Wir empfehlen [WinSCP](https://winscp.net/eng/download.php). <span style="color: #858585">Weitere Informationen zu SFTP-Verbindungen findest du [hier](/user-interface/verbindung-mit-sftp-herstellen).</span>
+
+4. Wechsle im Panel in den Tab **Settings** und klicke auf **Launch SFTP**. Falls dein Browser fragt, ob WinSCP automatisch geöffnet werden soll, kannst du dem zustimmen.
+
+![marked-launch-sftp-button-9e45dd836f8a6c8beb738f677e2ca4cb.png](/_assets/minecraft/marked-launch-sftp-button-9e45dd836f8a6c8beb738f677e2ca4cb.png =720x400)
 
 #####
 
