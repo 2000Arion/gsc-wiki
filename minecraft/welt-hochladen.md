@@ -2,7 +2,7 @@
 title: Welt hochladen
 description: Eine Anleitung, wie du eine bestehende Welt auf deinen Server hochladen kannst.
 published: true
-date: 2025-12-29T13:37:26.672Z
+date: 2025-12-29T13:39:00.372Z
 tags: upload, minecraft, worldfolder
 editor: markdown
 dateCreated: 2025-12-29T12:12:29.375Z
@@ -12,7 +12,7 @@ Falls du bereits eine Singleplayer-Welt oder eine Welt von einem anderen Server 
 
 # 🌍 Welt auf Vanilla- oder Fabric-Server hochladen
 
-1. Öffne den Datei-Explorer und wechsle in das Verzeichnis deiner Minecraft-Installation auf deinem Computer. Standardmäßig befindet sich dieses unter Windows unter `%appdata%/.minecraft`.
+1. Öffne den Datei-Explorer und wechsle in das Verzeichnis deiner Minecraft-Installation auf deinem Computer. Standardmäßig ist dies unter Windows `%appdata%/.minecraft`.
 
 2. Öffne den Ordner `saves` und suche die Welt heraus, die du auf den Server hochladen möchtest.
 
@@ -73,7 +73,7 @@ Alternativ kannst du dich jederzeit an <a href="#" id="open-chat">unseren Suppor
 
 # 📦 Welt auf Paper- oder Purpur-Server hochladen
 
-1. Öffne den Datei-Explorer und wechsle in das Verzeichnis deiner Minecraft-Installation auf deinem Computer. Standardmäßig ist dies `%appdata%/.minecraft`.
+1. Öffne den Datei-Explorer und wechsle in das Verzeichnis deiner Minecraft-Installation auf deinem Computer. Standardmäßig ist dies unter Windows `%appdata%/.minecraft`.
 
 2. Öffne den Ordner `saves` und suche die Welt heraus, die du auf den Server hochladen möchtest.
 
