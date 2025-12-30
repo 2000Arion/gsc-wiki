@@ -2,7 +2,7 @@
 title: Liste der Farbcodes in Minecraft
 description: Hier findest du eine Liste mit allen in Minecraft verfügbaren Farbcodes in verschiedenen Formaten.
 published: true
-date: 2025-12-30T13:37:05.516Z
+date: 2025-12-30T13:41:59.793Z
 tags: minecraft, useful
 editor: markdown
 dateCreated: 2025-12-30T12:54:17.175Z
@@ -14,9 +14,9 @@ In Minecraft gibt man Farben meistens mit bestimmten zugewiesenen Codes an. In d
 
 <table class="mc-color-table">
     <tr class="mc-table-header">
-        <th>Farbe<br><em>(Minecraft-Name)</em>[^1]</th>
-        <th>Chat-Code[^2]</th>
-        <th>MOTD-Code[^3]</th>
+        <th>Farbe<br><em>(Minecraft-Name)</em><sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></th>
+        <th>Chat-Code<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup></th>
+        <th>MOTD-Code<sup class="footnote-ref"><a href="#fn3" id="fnref3">[3]</a></sup></th>
         <th>Dezimal</th>
         <th>Hexadezimal</th>
     </tr>
@@ -142,6 +142,13 @@ In Minecraft gibt man Farben meistens mit bestimmten zugewiesenen Codes an. In d
 
 ## Anmerkungen
 
-[^1]: Die Schreibweise in Klammern wird in vielen Vanilla-Commands verwendet und ist der interne Name für Farben in Minecraft.
-[^2]: Der Chat-Code mit `§` ist in neueren Versionen die interne Formatierungsart für Farben im Chat. Allerdings lässt sich dieses Zeichen nicht diekt im Minecraft-Chat eintippen und kann somit nur über die Konsole oder z.B. in Datapacks verwendet werden. Verwende in der Chatzeile stattdessen den MOTD-Code.
-[^3]: Der MOTD-Code heißt so, weil er primär für die "Message Of The Day" [in der Serverliste](/minecraft/design-in-der-serverliste-anpassen) verwendet wird. Du kannst ihn auch ohne Probleme im Chat verwenden, um damit Scoreboards, Teamnamen und vieles mehr einzufärben.
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>Die Schreibweise in Klammern wird in vielen Vanilla-Commands verwendet und ist der interne Name für Farben in Minecraft. <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn2" class="footnote-item"><p>Der Chat-Code mit <code>§</code> ist in neueren Versionen die interne Formatierungsart für Farben im Chat. Allerdings lässt sich dieses Zeichen nicht diekt im Minecraft-Chat eintippen und kann somit nur über die Konsole oder z.B. in Datapacks verwendet werden. Verwende in der Chatzeile stattdessen den MOTD-Code. <a href="#fnref2" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn3" class="footnote-item"><p>Der MOTD-Code heißt so, weil er primär für die "Message Of The Day" <a href="../minecraft/design-in-der-serverliste-anpassen">in der Serverliste</a> verwendet wird. Du kannst ihn auch ohne Probleme im Chat verwenden, um damit Scoreboards, Teamnamen und vieles mehr einzufärben. <a href="#fnref3" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
