@@ -2,7 +2,7 @@
 title: Liste der Farbcodes in Minecraft
 description: Hier findest du eine Liste mit allen in Minecraft verfügbaren Farbcodes in verschiedenen Formaten.
 published: true
-date: 2025-12-30T13:49:34.576Z
+date: 2025-12-30T14:06:29.120Z
 tags: minecraft, useful
 editor: markdown
 dateCreated: 2025-12-30T12:54:17.175Z
@@ -156,3 +156,19 @@ In Minecraft gibt man Farben meistens mit bestimmten zugewiesenen Codes an. In d
 ---
 
 # ✏️ Formatierungscodes
+
+Neben Codes, die für das Einfärben von Text verwendet werden können, gibt es auch Codes, mit denen man die Formatierung anpassen kann.
+
+<table>
+<tr class="mc-table-header">
+<th>Description</th>
+<th>Chat Code</th>
+<th>MOTD Code</th>
+</tr>
+  <tr><td>Verschleiert (<img src="https://sh.arion2000.xyz/raw/LNUheQ.png" height="20" style="vertical-align: middle;">)</td><td>&#x00a7;k</td><td>\u00A7k</td></tr>
+<tr><td style="font-weight:bold">Fett</td><td>&#x00a7;l</td><td>\u00A7l</td></tr>
+<tr><td style="text-decoration:line-through">Durchgestrichen</td><td>&#x00a7;m</td><td>\u00A7m</td></tr>
+<tr><td style="text-decoration:underline">Unterstrichen</td><td>&#x00a7;n</td><td>\u00A7n</td></tr>
+<tr><td style="font-style:italic">Kursiv</td><td>&#x00a7;o</td><td>\u00A7o</td></tr>
+<tr><td>Standardfarbe zurücksetzen</td><td>&#x00a7;r</td><td>\u00A7r</td></tr>
+</table>
