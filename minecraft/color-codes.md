@@ -2,7 +2,7 @@
 title: Liste der Farbcodes in Minecraft
 description: Hier findest du eine Liste mit allen in Minecraft verfügbaren Farbcodes in verschiedenen Formaten.
 published: true
-date: 2025-12-30T14:06:29.120Z
+date: 2025-12-30T14:07:13.437Z
 tags: minecraft, useful
 editor: markdown
 dateCreated: 2025-12-30T12:54:17.175Z
@@ -161,9 +161,9 @@ Neben Codes, die für das Einfärben von Text verwendet werden können, gibt es 
 
 <table>
 <tr class="mc-table-header">
-<th>Description</th>
-<th>Chat Code</th>
-<th>MOTD Code</th>
+<th>Beschreibung</th>
+<th>Chat-Code<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup></th>
+<th>MOTD-Code<sup class="footnote-ref"><a href="#fn3" id="fnref3">[3]</a></sup></th>
 </tr>
   <tr><td>Verschleiert (<img src="https://sh.arion2000.xyz/raw/LNUheQ.png" height="20" style="vertical-align: middle;">)</td><td>&#x00a7;k</td><td>\u00A7k</td></tr>
 <tr><td style="font-weight:bold">Fett</td><td>&#x00a7;l</td><td>\u00A7l</td></tr>
