@@ -2,7 +2,7 @@
 title: Verbindung mit SFTP herstellen
 description: Hier erfährst du, wie du dich mit SFTP auf deinen Server verbindest, um Dateien hochzuladen, herunterzuladen oder zu bearbeiten.
 published: true
-date: 2025-12-29T12:18:38.301Z
+date: 2026-01-01T18:26:55.153Z
 tags: filezilla, management, sftp, ssh-keys, upload, winscp
 editor: markdown
 dateCreated: 2025-02-02T13:35:02.091Z
@@ -102,7 +102,7 @@ Anschließend wird dir angezeigt, wo das Schlüsselpaar gespeichert wurde.
    - **Public Key:** Trage hier den Inhalt deiner _Public_ Key-Datei ein. Diese findest du standardmäßig in deinem Benutzerverzeichnis im `.ssh`-Ordner.
    > - Unter Windows kannst du im Explorer den Pfad `%userprofile%\.ssh` eingeben, um dorthin zu gelangen.
    > - Die Datei hat die Endung `.pub`.
-   > - Falls Windows die Datei standardmäßig in einem Programm wie z.B. Microsoft 365 Publisher öffnet, mache einen Rechtsklick auf die Datei, wähle `Öffnen mit > Editor` aus und kopiere dann den kompletten Inhalt der Datei.
+   > - Falls Windows die Datei standardmäßig in einem Programm wie z.B. Microsoft 365 Publisher öffnet, mache einen Rechtsklick auf die Datei, wähle **Öffnen mit > Editor** aus und kopiere dann den kompletten Inhalt der Datei.
    <!-- {blockquote:.is-info} -->
 3. Klicke auf **Save**.
 
