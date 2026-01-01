@@ -2,7 +2,7 @@
 title: Verbindung mit SFTP herstellen
 description: Hier erfährst du, wie du dich mit SFTP auf deinen Server verbindest, um Dateien hochzuladen, herunterzuladen oder zu bearbeiten.
 published: true
-date: 2026-01-01T18:31:04.360Z
+date: 2026-01-01T18:33:53.279Z
 tags: filezilla, management, sftp, ssh-keys, upload, winscp
 editor: markdown
 dateCreated: 2025-02-02T13:35:02.091Z
@@ -106,9 +106,11 @@ Anschließend wird dir angezeigt, wo das Schlüsselpaar gespeichert wurde.
    <!-- {blockquote:.is-info} -->
 3. Klicke auf **Save**.
 
-## Schritt 3: SSH-Key bei der Anmeldung verwenden {.tabset}
+## Schritt 3: SSH-Key bei der Anmeldung verwenden
 
-### WinSCP
+##### Tabs {.tabset}
+
+###### WinSCP
 
 1. Gib die **Serveradresse**, die **Portnummer** und deinen **Benutzernamen** in WinSCP ein.
 2. Klicke auf **Erweitert**.
@@ -122,7 +124,7 @@ Anschließend wird dir angezeigt, wo das Schlüsselpaar gespeichert wurde.
 5. Klicke auf **OK**.
 6. Verbinde dich mit **Anmelden**.
 
-### FileZilla
+###### FileZilla
 
 1. Gehe zum Menü **Datei > Servermanager**.
 2. Gib die **Serveradresse**, den **Port** und deinen **Benutzernamen** ein.
@@ -134,7 +136,7 @@ Anschließend wird dir angezeigt, wo das Schlüsselpaar gespeichert wurde.
 {.is-info}
 5. Klicke auf **Verbinden**.
 
-<h2 style="visibility: hidden; height: 0;"></h2>
+<h5 style="visibility: hidden; height: 0;"></h5>
 
 ---
 
