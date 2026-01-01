@@ -2,7 +2,7 @@
 title: Verbindung mit SFTP herstellen
 description: Hier erfährst du, wie du dich mit SFTP auf deinen Server verbindest, um Dateien hochzuladen, herunterzuladen oder zu bearbeiten.
 published: true
-date: 2026-01-01T18:26:55.153Z
+date: 2026-01-01T18:31:04.360Z
 tags: filezilla, management, sftp, ssh-keys, upload, winscp
 editor: markdown
 dateCreated: 2025-02-02T13:35:02.091Z
@@ -133,6 +133,8 @@ Anschließend wird dir angezeigt, wo das Schlüsselpaar gespeichert wurde.
 > ℹ️ Lasse das Feld für das Passwort leer, wenn du einen SSH-Key verwenden möchtest.
 {.is-info}
 5. Klicke auf **Verbinden**.
+
+<h2 style="visibility: hidden; height: 0;"></h2>
 
 ---
 
