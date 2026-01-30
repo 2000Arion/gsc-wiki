@@ -2,7 +2,7 @@
 title: Welt hochladen
 description: Eine Anleitung, wie du eine bestehende Welt auf deinen Server hochladen kannst.
 published: true
-date: 2026-01-30T20:20:14.479Z
+date: 2026-01-30T20:21:16.420Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-29T12:12:29.375Z
