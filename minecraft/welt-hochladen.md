@@ -2,7 +2,7 @@
 title: Welt hochladen
 description: Eine Anleitung, wie du eine bestehende Welt auf deinen Server hochladen kannst.
 published: true
-date: 2026-01-30T20:21:16.420Z
+date: 2026-01-30T20:23:02.053Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-29T12:12:29.375Z
@@ -140,4 +140,4 @@ Alternativ kannst du dich jederzeit an <a href="#" id="open-chat">unseren Suppor
 ✅ Jetzt sollte die neue Welt auf deinem Server verfügbar sein.
 Falls es dennoch Probleme gibt, versuche, die Ordner `.cache` und `libraries` zu löschen und den Server anschließend neu zu starten, damit diese automatisch neu erstellt werden.
 
-Alternativ kannst du dich jederzeit an <a href="#" id="open-chat">unseren Support</a> wenden.
+Alternativ kannst du dich jederzeit an <a href="mailto:support@arion2000.xyz" target="_blank" id="open-chat">unseren Support</a> wenden.
