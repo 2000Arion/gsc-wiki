@@ -2,7 +2,7 @@
 title: Probleme beim Empfang von E-Mails beheben
 description: Hier erfährst du, wie du die häufigsten Probleme beim Empfang von E-Mails der Gameservercloud ganz einfach lösen kannst.
 published: true
-date: 2025-12-22T15:57:51.554Z
+date: 2026-03-13T19:14:45.301Z
 tags: email, faq, troubleshooting
 editor: markdown
 dateCreated: 2025-07-31T22:07:40.373Z
@@ -30,8 +30,8 @@ Manchmal werden E-Mails von unbekannten Absendern automatisch als **Spam** marki
 Füge die folgenden E-Mail-Adressen in deine **Kontaktliste** oder dein **Adressbuch** ein:
 
 - **<panel@m.arion2000.xyz>**
-- **<tickets@arion2000.xyz>**
-- **<tickets@a2data.p.tawk.email>**
+- **<gsc-support@arion2000.xyz>**
+- **<support@arion2000.xyz>**
 
 Du kannst auch einen **Filter** erstellen, der verhindert, dass diese E-Mails im Spam-Ordner landen.  
 [**Hier**](https://arion2000.tawk.help/article/64be6e3954d1b209d02369c2#:~:text=Outlook "Klicke hier, um den dazugehörigen Artikel im arion2000.xyz Support-Center unter arion2000.tawk.help zu öffnen") wird beispielhaft erklärt, wie man einen Filter in **Gmail** und **Outlook** erstellt.
@@ -48,7 +48,7 @@ Wenn du dir **nicht sicher** bist, prüfe auch deine **anderen E-Mail-Konten**. 
 
 # 🆘 Schritt 4: Kontaktiere den Support
 
-Wenn die Probleme weiterhin bestehen, kontaktiere uns entweder – **falls möglich** – per E-Mail an **<tickets@arion2000.xyz>**
+Wenn die Probleme weiterhin bestehen, kontaktiere uns entweder – **falls möglich** – per E-Mail an **<support@arion2000.xyz>**
 oder **starte bequem einen Live-Chat über die Sprechblase in der rechten unteren Ecke auf dieser Seite**.
 
 Bitte gib dabei alle **relevanten Informationen** an:
