@@ -2,7 +2,7 @@
 title: FAQ
 description: Finde Antworten auf häufig gestellte Fragen.
 published: true
-date: 2026-03-28T14:30:59.075Z
+date: 2026-03-28T15:29:26.591Z
 tags: faq
 editor: markdown
 dateCreated: 2025-02-02T15:10:40.131Z
@@ -13,6 +13,7 @@ dateCreated: 2025-02-02T15:10:40.131Z
 - [🔑 Passwort vergessen? *Erfahre, wie du dein Passwort zurücksetzen kannst.*](./faq/password)
 - [✉️ Kommen manche E-Mails nicht an? *Behebe Probleme bezüglich des Erhaltens von E-Mails.*](./faq/email)
 - [📡 Server nicht erreichbar? *Lerne nützliche Tipps bezüglich Verbindungsproblemen kennen.*](./faq/outages)
+- [🕒 Erreichbarkeit des Supports *Informationen zu Antwortzeiten & Verfügbarkeit des Supports per E-Mail und Live-Chat.*](./faq/support)
 {.links-list}
 
 # Kontakt
