@@ -1,8 +1,8 @@
 ---
 title: Erreichbarkeit des Supports
-description: Informationen zur Verfügbarkeit des Supports per E-Mail und Live-Chat.
+description: Informationen zu Antwortzeiten & Verfügbarkeit des Supports per E-Mail und Live-Chat.
 published: true
-date: 2026-03-28T15:20:43.409Z
+date: 2026-03-28T15:29:25.413Z
 tags: email, useful, support
 editor: markdown
 dateCreated: 2026-03-28T14:59:20.835Z
