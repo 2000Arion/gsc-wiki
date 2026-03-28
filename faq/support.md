@@ -2,7 +2,7 @@
 title: Erreichbarkeit des Supports
 description: Informationen zu Antwortzeiten & Verfügbarkeit des Supports per E-Mail und Live-Chat.
 published: true
-date: 2026-03-28T15:29:25.413Z
+date: 2026-03-28T15:30:26.639Z
 tags: email, useful, support
 editor: markdown
 dateCreated: 2026-03-28T14:59:20.835Z
@@ -16,7 +16,7 @@ Für **allgemeine Anfragen** erreichst du uns jederzeit per E-Mail unter <suppor
 
 Wenn dein Anliegen speziell die **Gameservercloud** betrifft, empfehlen wir dir, direkt an <gsc-support@arion2000.xyz> zu schreiben. So landet deine Anfrage sofort beim richtigen Team und wird schneller bearbeitet.
 
-Alternativ kannst du auch unseren <a href="#" class="open-chat" title="Nachdem du die Datenschutzbestimmungen von tawk.to im Browser-Widget (unten rechts) akzeptiert hast, funktioniert dieser Link auf jeder Seite der arion2000.xyz Gameservers Dokumentation und öffnet sofort den Live-Chat.">Live-Chat</a> nutzen – ideal für schnelle Rückfragen oder wenn du lieber direkt mit uns schreiben möchtest.
+Alternativ kannst du auch unseren <a href="#" class="open-chat" title="Nachdem du die Datenschutzbestimmungen von tawk.to im Browser-Widget (unten rechts) akzeptiert hast, funktioniert dieser Link auf jeder Seite der Arion2000.xyz Gameservers Dokumentation und öffnet sofort den Live-Chat.">Live-Chat</a> nutzen – ideal für schnelle Rückfragen oder wenn du lieber direkt mit uns schreiben möchtest.
 
 >**💡 Tipp:** Je genauer du dein Anliegen beschreibst (z. B. mit Screenshots, Fehlermeldungen oder Server-ID), desto schneller können wir dir helfen.
 {.is-success}
