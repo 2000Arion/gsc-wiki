@@ -2,7 +2,7 @@
 title: Liste der Farbcodes in Minecraft
 description: Hier findest du eine Liste mit allen in Minecraft verfügbaren Farbcodes in verschiedenen Formaten.
 published: true
-date: 2025-12-30T14:07:13.437Z
+date: 2025-12-30T14:07:16.182Z
 tags: minecraft, useful
 editor: markdown
 dateCreated: 2025-12-30T12:54:17.175Z

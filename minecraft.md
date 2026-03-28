@@ -2,7 +2,7 @@
 title: Minecraft Server
 description: Erfahre, wie du deinen Minecraft Server einrichten und personalisieren, Plugins oder Mods hochladen und andere Einstellungen vornehmen kannst.
 published: true
-date: 2025-12-30T14:12:24.512Z
+date: 2025-12-30T14:12:27.013Z
 tags: faq, minecraft
 editor: markdown
 dateCreated: 2025-12-20T11:36:10.428Z

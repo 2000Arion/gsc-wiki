@@ -2,7 +2,7 @@
 title: Benutzeroberfläche
 description: Allgemeine Tipps und Anleitungen zur erfolgreichen Verwendung des Panels. 
 published: true
-date: 2025-12-29T14:53:39.410Z
+date: 2025-12-29T14:53:41.829Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-29T14:53:39.410Z

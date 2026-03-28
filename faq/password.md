@@ -2,7 +2,7 @@
 title: Passwort im Panel zurücksetzen
 description: Hier wird erklärt, wie du dein Passwort im Panel zurücksetzen kannst, falls du es vergessen hast und dich nicht mehr anmelden kannst.
 published: true
-date: 2025-02-02T15:05:59.798Z
+date: 2025-02-02T15:06:02.492Z
 tags: account, security, password, email, faq
 editor: markdown
 dateCreated: 2025-02-02T15:05:59.798Z
