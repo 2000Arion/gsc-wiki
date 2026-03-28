@@ -2,7 +2,7 @@
 title: FAQ
 description: Finde Antworten auf häufig gestellte Fragen.
 published: true
-date: 2026-03-13T19:09:29.008Z
+date: 2026-03-28T14:30:56.097Z
 tags: faq
 editor: markdown
 dateCreated: 2025-02-02T15:10:40.131Z
@@ -21,5 +21,5 @@ Du hast weitere Fragen oder möchtest uns bezüglich anderer Anliegen kontaktier
 
 Sende uns eine E-Mail an <gsc-support@arion2000.xyz>. Wir helfen dir jederzeit gerne weiter.
 
-> Du kannst auch den <a href="#" id="open-chat">Live-Chat</a> unten rechts auf dieser Seite verwenden, um uns schnell und einfach zu erreichen.
+> Du kannst auch den <a href="#" id="open-chat" title="Nachdem du die Datenschutzbestimmungen von tawk.to im Browser-Widget (unten rechts) akzeptiert hast, funktioniert dieser Link auf jeder Seite der arion2000.xyz Gameservers Dokumentation und öffnet sofort den Live-Chat.">Live-Chat</a> unten rechts auf dieser Seite verwenden, um uns schnell und einfach zu erreichen.
 {.is-info}
