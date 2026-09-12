@@ -2,13 +2,13 @@
 title: [Python] Lösung von „No space left on device“-Fehlern
 description: Python-Bots starten manchmal nicht, wenn zu viele Dependencies geladen werden müssen und der Host-Server nicht genug Speicheplatzr für den Container zur Verfügung stellt. Lerne hier, wie du mit diesem Problem umgehen kannst.
 published: true
-date: 2026-09-12T12:54:28.153Z
+date: 2026-09-12T12:56:51.051Z
 tags: troubleshooting, discord, python
 editor: markdown
 dateCreated: 2026-09-12T12:54:15.480Z
 ---
 
-# Fehler beim Serverstart: "No space left on device" / ModuleNotFoundError
+# 💾 Fehler beim Serverstart: "No space left on device" / ModuleNotFoundError
 
 ## Was du im Log siehst
 
