@@ -2,7 +2,7 @@
 title: Erreichbarkeit des Supports
 description: Informationen zu Antwortzeiten & Verfügbarkeit des Supports per E-Mail und Live-Chat.
 published: true
-date: 2026-03-28T15:30:26.639Z
+date: 2026-10-22T20:44:12.524Z
 tags: email, useful, support
 editor: markdown
 dateCreated: 2026-03-28T14:59:20.835Z
@@ -36,15 +36,15 @@ Damit der Chat funktioniert, musst du zunächst den [Datenschutzbestimmungen von
 
 Du kannst uns jederzeit schreiben – wir melden uns dann innerhalb unserer Supportzeiten bei dir zurück.
 
-| Tag         | Antwortzeiten (Zeitzone: Europe/Berlin)     |
-| ----------- | ------------------------------------ |
-| Montag:     | 15:30 – 20:30 Uhr                    |
-| Dienstag:   | 13:30 – 20:30 Uhr                    |
-| Mittwoch:   | 15:30 – 20:30 Uhr                    |
-| Donnerstag: | 14:00 – 20:30 Uhr                    |
-| Freitag:    | 13:30 – 23:00 Uhr                    |
-| Samstag:    | 09:00 – 11:00 Uhr, 13:00 – 23:00 Uhr |
-| Sonntag:    | 09:00 – 11:00 Uhr, 13:00 – 20:30 Uhr |
+| Tag         | Antwortzeiten (Zeitzone: Europe/Berlin) |
+| ----------- | --------------------------------------- |
+| Montag:     | 15:30 – 20:30 Uhr                       |
+| Dienstag:   | 16:30 – 20:30 Uhr                       |
+| Mittwoch:   | 15:30 – 20:30 Uhr                       |
+| Donnerstag: | 14:00 – 20:30 Uhr                       |
+| Freitag:    | 13:30 – 23:00 Uhr                       |
+| Samstag:    | 09:00 – 11:00 Uhr, 13:00 – 23:00 Uhr    |
+| Sonntag:    | 09:00 – 11:00 Uhr, 13:00 – 20:30 Uhr    |
 
 **📌 Wichtig:**
 
