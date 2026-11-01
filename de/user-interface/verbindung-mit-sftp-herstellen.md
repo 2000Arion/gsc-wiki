@@ -4,7 +4,7 @@ description: >-
   Hier erfährst du, wie du dich mit SFTP auf deinen Server verbindest, um
   Dateien hochzuladen, herunterzuladen oder zu bearbeiten.
 published: true
-date: '2026-11-01T18:15:25.233Z'
+date: '2026-11-01T18:23:08.808Z'
 tags:
   - sftp
   - upload
@@ -18,14 +18,14 @@ dateCreated: '2025-02-02T13:35:02.091Z'
 
 # 📋 Voraussetzungen
 
-- FTP-Client (z. B. [WinSCP](https://winscp.net "Klicke hier, um winscp.net zu öffnen"), [FileZilla](https://filezilla-project.org "Klicke hier, um filezilla-project.org zu öffnen"), etc.)
+- FTP-Client (z. B. [WinSCP](https://winscp.net "Klicke hier, um winscp.net zu öffnen"){target=_blank}, [FileZilla](https://filezilla-project.org "Klicke hier, um filezilla-project.org zu öffnen"){target=_blank}, etc.)
 - Server-Zugangsdaten aus dem Panel
 
 ---
 
 # 🔍 Schritt 1: SFTP-Zugangsdaten im Panel abrufen
 
-1. Melde dich im [Panel](https://panel.arion2000.xyz "Klicke hier, um das Panel zu öffnen") an.
+1. Melde dich im [Panel](https://panel.arion2000.xyz/?ref=wiki.arion2000.xyz "Klicke hier, um das Panel zu öffnen"){target=_blank} an.
 2. Wähle den gewünschten Server aus.
 3. Navigiere zum Tab **Settings**.
 4. Kopiere die folgenden Informationen:
@@ -104,7 +104,7 @@ Anschließend wird dir angezeigt, wo das Schlüsselpaar gespeichert wurde.
 
 ## Schritt 2: Public Key im Panel hinterlegen
 
-1. Rufe folgende Seite auf: <https://panel.arion2000.xyz/account/ssh>
+1. Rufe folgende Seite auf: <https://panel.arion2000.xyz/account/ssh>{target=_blank}
 2. Trage folgende Daten ein:
    - **SSH Key Name:** Wähle einen Namen deiner Wahl, um den SSH-Key in Zukunft eindeutig identifizieren zu können.
    - **Public Key:** Trage hier den Inhalt deiner _Public_ Key-Datei ein. Diese findest du standardmäßig in deinem Benutzerverzeichnis im `.ssh`-Ordner.
@@ -154,7 +154,7 @@ Anschließend wird dir angezeigt, wo das Schlüsselpaar gespeichert wurde.
 - Die Richtigkeit der Serveradresse und des Ports
 - Die Richtigkeit deines Benutzernamen und Passworts
 - Ob deine Firewall SFTP-Verbindungen zulässt
-- Schaue auf unserer [Status-Seite](https://status.arion2000.xyz "Klicke hier, um die arion2000.xyz Statuspage zu öffnen") nach, ob es aktuelle Störungen gibt
+- Schaue auf unserer [Status-Seite](https://status.arion2000.xyz/?ref=wiki.arion2000.xyz "Klicke hier, um die arion2000.xyz Statuspage zu öffnen"){target=_blank} nach, ob es aktuelle Störungen gibt
 
 ## 🐧 Anmeldung unter Linux mithilfe des `sftp`-Commands
 
@@ -170,5 +170,5 @@ Vergiss nicht, den richtigen Port mithilfe von `-P 2022` anzugeben.
 
 # 📚 Weitere Ressourcen
 
-- [WinSCP-Dokumentation](https://winscp.net/eng/docs/start "Klicke hier, um https://winscp.net/eng/docs/start zu öffnen")
-- [FileZilla-Dokumentation](https://wiki.filezilla-project.org/Documentation "Klicke hier, um https://wiki.filezilla-project.org/Documentation zu öffnen")
+- [WinSCP-Dokumentation](https://winscp.net/eng/docs/start "Klicke hier, um https://winscp.net/eng/docs/start zu öffnen"){target=_blank}
+- [FileZilla-Dokumentation](https://wiki.filezilla-project.org/Documentation "Klicke hier, um https://wiki.filezilla-project.org/Documentation zu öffnen"){target=_blank}
