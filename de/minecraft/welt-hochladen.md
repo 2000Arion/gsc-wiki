@@ -4,7 +4,7 @@ description: >-
   Eine Anleitung, wie du eine bestehende Welt auf deinen Server hochladen
   kannst.
 published: true
-date: '2026-11-01T14:59:03.630Z'
+date: '2026-11-01T18:08:43.512Z'
 tags: []
 editor: markdown
 dateCreated: '2025-12-29T12:12:29.375Z'
@@ -18,9 +18,8 @@ Falls du bereits eine Singleplayer-Welt oder eine Welt von einem anderen Server 
 
 2. Öffne den Ordner `saves` und suche die Welt heraus, die du auf den Server hochladen möchtest.
 
-##### Tabs {.tabset}
-
-###### 🖥️ Über das Panel hochladen
+:::block-tabs
+::block-tab{label="🖥️ Über das Panel hochladen"}
 
 3. Da das Panel derzeit noch kein Hochladen kompletter Ordner unterstützt, musst du den **Weltenordner zunächst in eine ZIP-Datei komprimieren**.
 
@@ -45,7 +44,9 @@ Falls du bereits eine Singleplayer-Welt oder eine Welt von einem anderen Server 
 
 9. Falls nötig, starte deinen Server neu.
 
-###### 🔐 Über einen FTP-Client hochladen
+::
+
+::block-tab{label="🔐 Über einen FTP-Client hochladen"}
 
 3. Falls du noch keinen FTP-Client installiert hast, solltest du zunächst einen installieren. Wir empfehlen [WinSCP](https://winscp.net/eng/download.php). <span style="color: #858585;">Weitere Informationen zu SFTP-Verbindungen findest du [hier](/user-interface/verbindung-mit-sftp-herstellen).</span>
 
@@ -66,7 +67,7 @@ Falls du bereits eine Singleplayer-Welt oder eine Welt von einem anderen Server 
 
 8. Falls nötig, starte den Server neu.
 
-<h5 style="visibility: hidden;"></h5>
+:::
 
 ✅ Jetzt sollte die neue Welt auf deinem Server verfügbar sein.
 Falls es dennoch Probleme gibt, versuche, die Ordner `.cache` und `libraries` zu löschen und den Server anschließend neu zu starten, damit diese automatisch neu erstellt werden.
@@ -89,9 +90,8 @@ Alternativ kannst du dich jederzeit an <a href="#" id="open-chat">unseren Suppor
 - Erstelle die Ordner `world_nether` und `world_the_end`.
 - Verschiebe anschließend den Unterordner `DIM-1` aus dem ursprünglichen Weltenordner in `world_nether` sowie den Unterordner `DIM1` in `world_the_end`.
 
-##### Tabs {.tabset}
-
-###### 🖥️ Über das Panel hochladen
+:::block-tabs
+::block-tab{label="🖥️ Über das Panel hochladen"}
 
 4. Da das Panel aktuell noch kein Hochladen kompletter Ordner unterstützt, musst du den **Weltenordner zuerst in eine ZIP-Datei komprimieren**.
 
@@ -116,7 +116,8 @@ Alternativ kannst du dich jederzeit an <a href="#" id="open-chat">unseren Suppor
 
 10. Falls nötig, starte deinen Server neu.
 
-###### 🔐 Über einen FTP-Client hochladen
+::
+::block-tab{label="🔐 Über einen FTP-Client hochladen"}
 
 4. Falls du noch keinen FTP-Client installiert hast, solltest du zunächst einen installieren. Wir empfehlen [WinSCP](https://winscp.net/eng/download.php). <span style="color: #858585;">Weitere Informationen zu SFTP-Verbindungen findest du [hier](/user-interface/verbindung-mit-sftp-herstellen).</span>
 
@@ -137,7 +138,7 @@ Alternativ kannst du dich jederzeit an <a href="#" id="open-chat">unseren Suppor
 
 9. Falls nötig, starte deinen Server neu.
 
-<h5 style="visibility: hidden;"></h5>
+:::
 
 ✅ Jetzt sollte die neue Welt auf deinem Server verfügbar sein.
 Falls es dennoch Probleme gibt, versuche, die Ordner `.cache` und `libraries` zu löschen und den Server anschließend neu zu starten, damit diese automatisch neu erstellt werden.
