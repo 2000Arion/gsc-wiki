@@ -4,7 +4,7 @@ description: >-
   Hier findest du eine Liste mit allen in Minecraft verfügbaren Farbcodes in
   verschiedenen Formaten.
 published: true
-date: '2026-11-16T20:52:21.737Z'
+date: '2026-11-16T20:55:54.694Z'
 tags:
   - minecraft
   - useful
@@ -169,7 +169,7 @@ Neben Codes, die für das Einfärben von Text verwendet werden können, gibt es 
 <th>Chat-Code<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup></th>
 <th>MOTD-Code<sup class="footnote-ref"><a href="#fn3" id="fnref3">[3]</a></sup></th>
 </tr>
-  <tr><td>Verschleiert (![obscured-text-example.png](/assets/minecraft/obscured-text-example.png =x20))</td><td>&#x00a7;k</td><td>\u00A7k</td></tr>
+  <tr><td>Verschleiert <img src="/assets/minecraft/obscured-text-example.png" width="150" style="vertical-align: middle;"></img></td><td>&#x00a7;k</td><td>\u00A7k</td></tr>
 <tr><td style="font-weight:bold">Fett</td><td>&#x00a7;l</td><td>\u00A7l</td></tr>
 <tr><td style="text-decoration:line-through">Durchgestrichen</td><td>&#x00a7;m</td><td>\u00A7m</td></tr>
 <tr><td style="text-decoration:underline">Unterstrichen</td><td>&#x00a7;n</td><td>\u00A7n</td></tr>
